@@ -1,0 +1,9 @@
+<RCC>
+    <qresource lang="GLSL" prefix="/shaders">
+        <file>basicshader.vert</file>
+        <file>basicshader.fsh</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/textures/sp-studio2.jpg</file>
+    </qresource>
+</RCC>
