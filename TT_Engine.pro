@@ -25,7 +25,8 @@ SOURCES += main.cpp\
     ttscene.cpp \
     cube.cpp \
     sphere.cpp \
-    ttlightsource.cpp
+    ttlightsource.cpp \
+    torus.cpp
 
 HEADERS  += ttmainwindow.h \
     ttopenglwidget.h \
@@ -39,7 +40,8 @@ HEADERS  += ttmainwindow.h \
     ttscene.h \
     cube.h \
     sphere.h \
-    ttlightsource.h
+    ttlightsource.h \
+    torus.h
 
 FORMS    += ttmainwindow.ui
 
